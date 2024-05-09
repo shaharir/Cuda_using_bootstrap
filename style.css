@@ -1,0 +1,26 @@
+.hover ul li a:hover{
+    border: solid;
+    border-radius: 20px;
+    border-style: none;
+    background-color: brown;
+}
+.service
+{
+    background-color:#563D7C ;
+}
+.service img{
+    height:80px;
+    width: 80px;
+
+}
+.img-team .row img{
+    height:80px;
+    width: 80px;
+}
+.team-member{
+    background-color: #E7F1F8;
+}
+.team-member .row img{
+    width: 200px;
+    height: 150px;
+}
